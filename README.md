@@ -2,6 +2,8 @@
 
 A desktop application to browse, search and download custom content (CC) for **The Sims 2** from [modthesims.info](https://modthesims.info). Built with Qt 5 and C++17.
 
+### FOR LINUX ONLY.
+
 ## Features
 
 - **Category browser** — the full MTS download category tree (Lots & Housing, Sims, Body Shop, Objects, …) with live item counts, sub-categories and age groups (e.g. Clothing: Baby/Toddler, Infant, Child, Teen, Young Adult, Adult, Elder).
