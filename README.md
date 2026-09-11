@@ -30,3 +30,10 @@ A desktop application to browse, search and download custom content (CC) for **T
 
 - The scraper parses the HTML of modthesims.info. If the site restructures its pages, scraping may need updating.
 - This tool only accesses public pages — please respect each content creator's terms of use.
+
+
+
+https://github.com/user-attachments/assets/316ea16a-619e-4dcf-b0f5-ba7caa95bf7a
+
+
+
